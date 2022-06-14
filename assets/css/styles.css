@@ -47,7 +47,7 @@
 }
 
 .navbar__links {
-	color: #b0b30c;
+	color: #1bd96a;
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -88,7 +88,7 @@
 }
 
 .content--index ul li a {
-	color: #b0b30c;
+	color: #1bd96a;
 	text-decoration: none;
 	border: 2px solid;
 	border-radius: 10px;
@@ -139,7 +139,7 @@
 }
 
 .content--projects ul li a {
-	color: #b0b30c;
+	color: #1bd96a;
 	text-decoration: none;
 	border: 2px solid;
 	border-radius: 10px;
