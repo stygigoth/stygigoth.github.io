@@ -132,6 +132,7 @@
 
 .content--projects ul {
 	padding-top: 20vh;
+	list-style: none;
 }
 
 .content--projects ul li {
